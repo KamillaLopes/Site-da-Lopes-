@@ -16,6 +16,10 @@
             font-size: 20 px;
         }
 
+        a{
+            text-align: center;
+        }
+
         .dunkirk{
             font-weight: bold;
             color: darkblue;

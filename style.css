@@ -1,6 +1,6 @@
         h1 {
             text-align: center;
-            color: lawngreen;
+            color: whitesmoke;
             background: forestgreen;
         }
         p {
@@ -23,17 +23,17 @@
 
         .a{
             font-weight: bold;
-            color: darkblue;
+            color: royalblue;
         }
 
         .b{
             font-weight: bold;
-            color: gold;
+            color: royalblue;
         }
 
         .c{
             font-weight: bold;
-            color: dimgray;
+            color: royalblue;
         }
 
         .d{

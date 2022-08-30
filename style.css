@@ -23,12 +23,12 @@
 
         .a{
             font-weight: bold;
-            color: royalblue;
+            color: rgb(29, 65, 170);
         }
 
         .b{
             font-weight: bold;
-            color: royalblue;
+            color: rgb(47, 83, 189);
         }
 
         .c{
@@ -38,5 +38,5 @@
 
         .d{
             font-weight: bold;
-            color: royalblue;
+            color: rgba(65, 105, 225, 0.815);
         }
